@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Aug 28 19:54:40 CST 2016
+httpcore-1.0.0.jar>=
+httpcore-1.0.0.pom>=
